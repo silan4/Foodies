@@ -1,0 +1,116 @@
+/*Değişkenler*/
+
+:root{
+    --primary-color: #a82c48;
+    --secondry-color: #43121d;
+    --third-color: #f98169;
+    --white-color: #fff;
+    --text-color: #555;
+    --text-gray: #999;
+    --black-color: #000;
+    --primary-font: "Roboto", sans-serif;
+    --secondry-font: "Quicksand", sans-serif;
+}
+
+a:hover{
+    color: var(--primary-color) !important;
+
+}
+
+/*başlıklar*/
+
+h1{
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    color: var(--secondry-color);
+    font-weight: 400;
+    line-height: 2rem; 
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+.counter-div h2{
+    color: var(--white-color);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+
+
+h2{
+    color: var(--secondry-color);
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+}
+
+
+h2 p{
+    color: var(--white-color);  
+}
+
+p{
+    font-size: 1rem;
+    color: var(--text-color);
+   
+}
+
+/*Banner Alanı*/
+.top-banner{
+    width: 100%;
+    background: url('./imgyemek/bg-1.jpg');
+    background-position: center;
+    padding: 17rem 0 10rem;
+
+    
+}
+
+/*sayaç alanı */
+.counter-section{
+    background-color: var(--primary-color);
+}
+
+/*hakkımızda alanı*/
+
+.wrapper{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+
+}
+
+/*footer*/
+
+#footer{
+    background-color: var(--primary-color);
+
+}
+
+#footer .footer-links a{
+    color: var(--white-color);
+    text-decoration: none;
+    font-size: 1rem;
+
+}
+
+.footer a{
+    color: var(--white-color);
+    text-decoration: none;
+    font-size: 1.5rem;
+
+}
+
+.footer-links a:hover{
+    color: var(--text-color) !important;
+}
+
+
+
+
+
+
+
