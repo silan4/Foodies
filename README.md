@@ -44,8 +44,4 @@
 - - Boostrap
 - - Font Awesome
 - - Font Awesome/Icon
-<<<<<<< HEAD
-=======
 
->>>>>>> 60348fc58d703b2fff31cc5b7483c63b9c12d5df
-# Foodies
