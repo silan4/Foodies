@@ -4,7 +4,11 @@
 
 # Preview
 
+<<<<<<< HEAD
   ![](/imgyemek/food2.gif)
+=======
+  ![]([/imgyemek/foodies.gif](https://github.com/silan4/Foodies/blob/main/foodies.gif))
+>>>>>>> 60348fc58d703b2fff31cc5b7483c63b9c12d5df
 
 
 # Project Summary
@@ -40,3 +44,8 @@
 - - Boostrap
 - - Font Awesome
 - - Font Awesome/Icon
+<<<<<<< HEAD
+=======
+
+>>>>>>> 60348fc58d703b2fff31cc5b7483c63b9c12d5df
+# Foodies
