@@ -5,7 +5,7 @@
 # Preview
 
 
-  ![]([/imgyemek/food2.gif))
+  ![](/imgyemek/food2.gif)
 
 
 # Project Summary
