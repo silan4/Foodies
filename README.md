@@ -4,7 +4,7 @@
 
 # Preview
 
-  ![](/imgyemek/foodies.gif)
+  ![]([/imgyemek/foodies.gif](https://github.com/silan4/Foodies/blob/main/foodies.gif))
 
 
 # Project Summary
